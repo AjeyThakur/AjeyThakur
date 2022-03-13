@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AjeyThakur
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Javascript
